@@ -1,0 +1,18 @@
+[x] Inicializar  Proyecto
+[x] Armar componente mesa
+    [x] Maquetar nombre/título y plata acumulada
+    [x] Definir las props
+    
+
+[x] Armar panel
+    [x] Crear el input de importe (Maq)
+    [x] Añadir lógica de guardado de importe    
+    [x] Agregar título
+    [x] Definir props
+
+[] Definición de estado en el App.vue
+    [x] Definir lógica de selección de mesas
+    [x] Computar plata acumulada y cantidad de cargas totales
+    [x] Computar plata y cargas de cada mesa
+    [x] Definir/maquetar el layout
+    
